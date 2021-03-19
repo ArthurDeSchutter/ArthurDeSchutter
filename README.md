@@ -1,9 +1,5 @@
 
 
-- 👋 Hi, I’m @ArthurDeSchutter
-- 👀 I’m interested in everything JavaScript
-- 🌱 I’m currently learning React.js and Node.js
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDeSchutter&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
