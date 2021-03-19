@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ArthurDeSchutter=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @ArthurDeSchutter
 - 👀 I’m interested in everything JavaScript
 - 🌱 I’m currently learning React.js and Node.js
